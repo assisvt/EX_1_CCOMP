@@ -1,4 +1,4 @@
-# Atividade de ccomp
+# Exercício 1 CCOMP
 partes envolvidas: cáculo e importação de uma constante, classificação de valores em ordem crescente e estrutura while na leitura de valores, com o somatório, o contador e a média dos valores digitados.
 
 1. Elabore o programa que calcula a área lateral de um cilindro.
